@@ -14,7 +14,7 @@
     "url": "https://github.com/gorhack/tempstick/issues"
   },
   "engines": {
-    "node": "^18.20.4 || ^20.16.0 || ^22.6.0",
+    "node": "^18.20.4 || ^20.16.0 || ^22.6.0 || ^24.0.0",
     "homebridge": "^1.8.0 || ^2.0.0-beta.0"
   },
   "main": "dist/index.js",
